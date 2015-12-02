@@ -1,0 +1,6 @@
+The main idea: OSM XML ---> 3DMLW
+
+For the draft version we can simply convert OSM XML to
+3DMLW (it's not a problem because 3DMLW is XML-based too)
+with adding the third dimension. We must use contour lines
+to get the relief information.
